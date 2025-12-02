@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Shakhawat Amir Shimam 👋
 
-<!--
-**ShakhawatAmirShimam/ShakhawatAmirShimam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Known as: **Shakhawat • Amir • Shimam**  
+Cybersecurity Enthusiast | Ethical Hacking Learner | Developer  
+✨ Designed by ambition, powered by consistency.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Student from Bangladesh  
+- 🔐 Learning: Cybersecurity & Ethical Hacking  
+- 💻 Passion: Development & Problem Solving  
+- 🎯 Goal: Become a Cybersecurity Specialist  
+- 📛 Also known as: Shakhawat, Amir, Shimam  
+
+---
+
+## 📂 Skills & Interests
+- Cybersecurity Fundamentals  
+- Ethical Hacking  
+- Python, JavaScript  
+- Linux & Networking  
+- Web Development  
+
+---
+
+## 🔗 Official Links
+- GitHub Profile (this page)  
+- Facebook  
+- Instagram  
+- About.me  
+- Google Sites Portfolio (optional)
+
+---
+
+<!-- SEO Keywords: Shakhawat, Amir, Shimam, Shakhawat Amir Shimam, Bangladeshi Cybersecurity Student, Ethical Hacking Learner -->
